@@ -173,7 +173,7 @@ title: About Us | Brisbane Social Chess Club
 		<div class="flex flex-col items-center text-center w-1/3 role-moderator text-role-moderator role-board text-role-board">
 			<img class="w-20 md:w-28 bg-white lg:w-[120px] aspect-square rounded-full object-cover mb-2" src="{{ '/assets/images/github-octocat.svg' | url }}" alt="Jasper avatar" />
 			<span class="font-medium">Jasper</span>
-			<span class="text-gray-500">Role Leader & Orange</span>
+			<span class="text-gray-500">N/A</span>
 		</div>
 		<a href="https://github.com/prio101" class="flex flex-col items-center text-center w-1/3 role-moderator text-role-moderator">
 			<img class="w-20 md:w-28 lg:w-[120px] aspect-square rounded-full object-cover mb-2" src="https://avatars.githubusercontent.com/u/3279809?v=4&s=95" alt="Mahabub Islam Prio avatar" />
