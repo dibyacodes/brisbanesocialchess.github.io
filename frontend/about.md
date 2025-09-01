@@ -171,7 +171,7 @@ title: About Us | Brisbane Social Chess Club
 			<span class="text-gray-500 github">@ayushrana182</span>
 		</a>
 		<div class="flex flex-col items-center text-center w-1/3 role-moderator text-role-moderator role-board text-role-board">
-			<img class="w-20 md:w-28 bg-white lg:w-[120px] aspect-square rounded-full object-cover mb-2" src="https://github.com/dibyacodes/brisbanesocialchess.github.io/blob/issue%23524/frontend/assets/images/github-octocat.svg" alt="Jasper avatar" />
+			<img class="w-20 md:w-28 bg-white lg:w-[120px] aspect-square rounded-full object-cover mb-2 max-w-[120px] max-h-[120px]" src="/assets/images/github-octocat.svg" alt="Jasper avatar" />
 			<span class="font-medium">Jasper</span>
 			<span class="text-gray-500">Role Leader & Orange</span>
 		</div>
