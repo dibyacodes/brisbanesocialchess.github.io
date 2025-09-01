@@ -147,12 +147,14 @@ title: Brisbane Social Chess Club | Play, Learn & Compete in Brisbane
     We are creating magic live on Discord <span aria-hidden="true">🪄</span><br/>
     Click below to peruse our Facebook page <span aria-hidden="true">📄</span><br/>
     Come collaborate, communicate and share your ideas for Brisbane Social Chess on GitHub <span aria-hidden="true">🚀</span><br/>
+    Follow and like us on Instagram <span aria-hidden="true">📷</span><br/>
     The club plays chess on three social networks <span aria-hidden="true">💃</span>
   </p>
   <div class="flex flex-col md:flex-row flex-wrap justify-center gap-4 mb-6">
     <a href="https://discord.com/invite/JWBKhQmzvD" class="px-6 py-3 bg-indigo-900 hover:bg-indigo-500 rounded-full font-bold shadow-md transition">Discord</a>
     <a href="https://www.facebook.com/BrisbaneSocialChess/" class="px-6 py-3 bg-indigo-900 hover:bg-indigo-500 rounded-full font-bold shadow-md transition">Facebook</a>
     <a href="https://github.com/brisbanesocialchess" class="px-6 py-3 bg-indigo-900 hover:bg-indigo-500 rounded-full font-bold shadow-md transition">GitHub</a>
+    <a href="https://www.instagram.com/brisbanesocialchess/" class="px-6 py-3 bg-indigo-900 hover:bg-indigo-500 rounded-full font-bold shadow-md transition">Instagram</a>
     <a href="https://www.chess.com/club/brisbane-social-chess" class="px-6 py-3 bg-indigo-900 hover:bg-indigo-500 rounded-full font-bold shadow-md transition">Chess.com</a>
     <a href="https://worldchess.com/community/bsc" class="px-6 py-3 bg-indigo-900 hover:bg-indigo-500 rounded-full font-bold shadow-md transition">FIDE Online Arena</a>
     <a href="https://lichess.org/team/brisbane-social-chess" class="px-6 py-3 bg-indigo-900 hover:bg-indigo-500 rounded-full font-bold shadow-md transition">Lichess</a>
